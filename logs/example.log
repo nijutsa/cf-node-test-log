@@ -1,0 +1,7 @@
+{
+  message: 'success in reading all users',
+  level: 'info',
+  label: 'winston custom format',
+  timestamp: '09-10-24 18:44:00'
+}
+{"label":"winston custom format","level":"info","message":"success in reading all users","timestamp":"09-10-24 18:46:21"}
