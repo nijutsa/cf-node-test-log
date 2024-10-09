@@ -16,3 +16,9 @@
   label: 'winston custom format',
   timestamp: '09-10-24 19:23:42'
 }
+{
+  message: 'Error in finding all users',
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: '09-10-24 19:27:54'
+}
