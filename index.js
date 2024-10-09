@@ -6,6 +6,11 @@ const mongoose = require('mongoose');
 
 const swaggerUi = require('swagger-ui-express');
 const swaggerDocument = require('./swagger');
+const cors = require('cors');
+
+app.use(cors({
+    origin: ['http://localhost:8000']
+}))
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
