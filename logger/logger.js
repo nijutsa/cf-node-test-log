@@ -18,16 +18,30 @@ const logger = createLogger({
         timestamp({
            format: "DD-MM-YY HH:mm:ss"     
         }),
-        // prettyPrint()
+        prettyPrint()
         
-         format.json()
+        //  format.json()
     ),
     transports: [
         fileRotateTransport,
         new transports.File({
+            level: "info",
             filename: "logs/example.log"
         }),
-        new transports.Console()
+        new transports.File({
+            level: "error",
+            filename: "logs/errors.log"
+        }),
+        new transports.Console(),
+        new transports.MongoDB({
+            level: "error",
+            db: process.env.MONGODB_URI,
+            collection: "logs",
+            format: format.combine(
+                format.timestamp(),
+                format.json()
+            )
+        })
     ]
 })
 

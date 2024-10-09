@@ -4,12 +4,13 @@ const port = 3000;
 
 const mongoose = require('mongoose');
 
-const swaggerUi = require('swagger-ui-express')
-const swaggerDocument = require('./swagger')
+const swaggerUi = require('swagger-ui-express');
+const swaggerDocument = require('./swagger');
 
 app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
 
-app.use('/', express.static('files'))
+app.use('/', express.static('files'));
 
 
 mongoose.connect(process.env.MONGODB_URI).
@@ -19,7 +20,7 @@ mongoose.connect(process.env.MONGODB_URI).
 );
 
 const user = require('./routes/user.routes');
-const userProduct = require('./routes/user.product.routes')
+const userProduct = require('./routes/user.product.routes');
 
 app.use('/api/users', user);
 // app.use('/api/products', product)

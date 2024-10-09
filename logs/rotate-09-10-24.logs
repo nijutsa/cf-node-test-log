@@ -5,3 +5,51 @@
   timestamp: '09-10-24 18:44:00'
 }
 {"label":"winston custom format","level":"info","message":"success in reading all users","timestamp":"09-10-24 18:46:21"}
+{
+  message: 'success in reading all users',
+  level: 'info',
+  label: 'winston custom format',
+  timestamp: '09-10-24 18:51:48'
+}
+{
+  message: 'Error in finding all users',
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: '09-10-24 18:51:48'
+}
+{
+  message: 'success in reading all users',
+  level: 'info',
+  label: 'winston custom format',
+  timestamp: '09-10-24 19:08:09'
+}
+{
+  message: 'Error in finding all users',
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: '09-10-24 19:08:09'
+}
+{
+  message: 'success in reading all users',
+  level: 'info',
+  label: 'winston custom format',
+  timestamp: '09-10-24 19:22:07'
+}
+{
+  message: 'Error in finding all users',
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: '09-10-24 19:22:07'
+}
+{
+  message: 'success in reading all users',
+  level: 'info',
+  label: 'winston custom format',
+  timestamp: '09-10-24 19:23:42'
+}
+{
+  message: 'Error in finding all users',
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: '09-10-24 19:23:42'
+}

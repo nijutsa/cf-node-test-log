@@ -7,6 +7,7 @@ exports.findAll = async(req, res) => {
     try {
         const result = await User.find()
         logger.info('success in reading all users');
+        logger.error('Error in finding all users')
         res.json({ status: true, data: result })
     } catch(err){
         res.json({ status:false, data: err })
