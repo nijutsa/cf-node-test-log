@@ -1,0 +1,156 @@
+{
+    "team": "Panathinaikos BC",
+    "players": [
+      {
+        "firstName": "Kostas",
+        "lastName": "Antetokounmpo",
+        "position": "Forward",
+        "height": "2.08m",
+        "weight": "100kg",
+        "wingspan": "2.21m",
+        "dateOfBirth": "1998-11-20",
+        "placeOfBirth": "Athens, Greece"
+      },
+      {
+        "firstName": "Ioannis",
+        "lastName": "Papapetrou",
+        "position": "Forward",
+        "height": "2.06m",
+        "weight": "106kg",
+        "wingspan": "2.10m",
+        "dateOfBirth": "1994-03-30",
+        "placeOfBirth": "Patras, Greece"
+      },
+      {
+        "firstName": "Jerian",
+        "lastName": "Grant",
+        "position": "Guard",
+        "height": "1.96m",
+        "weight": "93kg",
+        "wingspan": "2.10m",
+        "dateOfBirth": "1992-10-09",
+        "placeOfBirth": "Silver Spring, Maryland, USA"
+      },
+      {
+        "firstName": "Dimitris",
+        "lastName": "Moraitis",
+        "position": "Guard",
+        "height": "1.94m",
+        "weight": "88kg",
+        "wingspan": "2.05m",
+        "dateOfBirth": "1999-02-03",
+        "placeOfBirth": "Athens, Greece"
+      },
+      {
+        "firstName": "Marius",
+        "lastName": "Grigonis",
+        "position": "Guard",
+        "height": "1.98m",
+        "weight": "95kg",
+        "wingspan": "2.03m",
+        "dateOfBirth": "1994-04-26",
+        "placeOfBirth": "Kaunas, Lithuania"
+      },
+      {
+        "firstName": "Juancho",
+        "lastName": "Hernangómez",
+        "position": "Forward",
+        "height": "2.06m",
+        "weight": "97kg",
+        "wingspan": "2.16m",
+        "dateOfBirth": "1995-09-28",
+        "placeOfBirth": "Madrid, Spain"
+      },
+      {
+        "firstName": "Kostas",
+        "lastName": "Sloukas",
+        "position": "Guard",
+        "height": "1.90m",
+        "weight": "88kg",
+        "wingspan": "2.00m",
+        "dateOfBirth": "1990-01-15",
+        "placeOfBirth": "Thessaloniki, Greece"
+      },
+      {
+        "firstName": "Omer",
+        "lastName": "Yurtseven",
+        "position": "Center",
+        "height": "2.13m",
+        "weight": "125kg",
+        "wingspan": "2.25m",
+        "dateOfBirth": "1998-06-19",
+        "placeOfBirth": "Tashkent, Uzbekistan"
+      },
+      {
+        "firstName": "Cedi",
+        "lastName": "Osman",
+        "position": "Forward",
+        "height": "2.04m",
+        "weight": "104kg",
+        "wingspan": "2.13m",
+        "dateOfBirth": "1995-04-08",
+        "placeOfBirth": "Ohrid, North Macedonia"
+      },
+      {
+        "firstName": "Mathias",
+        "lastName": "Lessort",
+        "position": "Center",
+        "height": "2.06m",
+        "weight": "113kg",
+        "wingspan": "2.16m",
+        "dateOfBirth": "1995-09-29",
+        "placeOfBirth": "Fort-de-France, Martinique"
+      },
+      {
+        "firstName": "Lorenzo",
+        "lastName": "Brown",
+        "position": "Guard",
+        "height": "1.96m",
+        "weight": "89kg",
+        "wingspan": "2.08m",
+        "dateOfBirth": "1990-08-26",
+        "placeOfBirth": "Roswell, Georgia, USA"
+      },
+      {
+        "firstName": "Kendrick",
+        "lastName": "Nunn",
+        "position": "Guard",
+        "height": "1.88m",
+        "weight": "86kg",
+        "wingspan": "1.98m",
+        "dateOfBirth": "1995-08-03",
+        "placeOfBirth": "Chicago, Illinois, USA"
+      },
+      {
+        "firstName": "Panagiotis",
+        "lastName": "Kalaitzakis",
+        "position": "Forward",
+        "height": "2.00m",
+        "weight": "93kg",
+        "wingspan": "2.05m",
+        "dateOfBirth": "1999-01-02",
+        "placeOfBirth": "Heraklion, Greece"
+      },
+      {
+        "firstName": "Konstantinos",
+        "lastName": "Mitoglou",
+        "position": "Forward",
+        "height": "2.10m",
+        "weight": "107kg",
+        "wingspan": "2.13m",
+        "dateOfBirth": "1996-06-11",
+        "placeOfBirth": "Thessaloniki, Greece"
+      },
+      {
+        "firstName": "Alexandros",
+        "lastName": "Samodurov",
+        "position": "Center",
+        "height": "2.10m",
+        "weight": "105kg",
+        "wingspan": "2.15m",
+        "dateOfBirth": "2004-06-20",
+        "placeOfBirth": "Thessaloniki, Greece"
+      }
+    ]
+  }
+  
