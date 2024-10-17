@@ -34,3 +34,27 @@
   label: 'winston custom format',
   timestamp: '11-10-24 14:18:37'
 }
+{
+  message: 'success in reading all users',
+  level: 'info',
+  label: 'winston custom format',
+  timestamp: '11-10-24 19:21:08'
+}
+{
+  message: 'Error in finding all users',
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: '11-10-24 19:21:08'
+}
+{
+  message: 'success in reading all users',
+  level: 'info',
+  label: 'winston custom format',
+  timestamp: '11-10-24 20:15:24'
+}
+{
+  message: 'Error in finding all users',
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: '11-10-24 20:15:24'
+}
